@@ -18,7 +18,7 @@ As a refresher, here's a list of commands to help you with this task:
 
 `mv` move a file. The `mv` command needs two extra pieces of information, the name of the file you're moving and where you want to move it. Let's say I want to move a file named `me.txt` back a level, I would enter `mv me.txt ..`.
 
-Remember, it's always helpful to know where you are in your directory tree in relation to where you want to go. Keep that in mind as you write out your command-line paths!
+Remember, it's always helpful to know where you are in your directory tree in rbelation to where you want to go. Keep that in mind as you write out your command-line paths!
 
 ### Get working!
 
